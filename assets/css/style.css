@@ -56,3 +56,14 @@ h1 ,h2 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* hero img */
+
+#hero-img {
+    height: 500px;
+    width: 100%;
+    background-image: url(../image/Main-Img.jpg);
+    background-repeat: no-repeat;
+    background-position: center 50px;
+    background-size: 1900px 500px;
+}
