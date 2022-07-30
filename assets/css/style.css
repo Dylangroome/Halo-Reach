@@ -10,7 +10,7 @@
 body {
     font-family: Teko, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #685454;
 }
 
 /* logo style */
@@ -24,4 +24,35 @@ h1 ,h2 {
 #logo {
     float: left;
     font-size: 190%;
+    margin-left: 20px;
+}
+
+/* Nav Links */
+
+#menu {
+    font-size: 140%;
+    letter-spacing: 2px;
+}
+
+#menu, #logo {
+    line-height: 60px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 70px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #000080;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #000000;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
