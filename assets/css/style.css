@@ -60,6 +60,8 @@ h1 ,h2 {
 /* hero img */
 
 #hero-img {
+    border: 8px solid black;
+    background-color: rgb(162, 183, 201);
     height: 500px;
     width: 100%;
     background-image: url(../image/Main-Img.jpg);
@@ -76,4 +78,9 @@ h1 ,h2 {
     height: 300px;
     float: right;
     margin-right: 40px;
+}
+
+#left-text {
+    border: 3px solid black;
+    width: 1320px;
 }
