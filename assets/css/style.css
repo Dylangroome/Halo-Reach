@@ -67,3 +67,13 @@ h1 ,h2 {
     background-position: center 50px;
     background-size: 1900px 500px;
 }
+
+/* right img */
+
+#right-img {
+    border: 3px solid black;
+    width: 250px;
+    height: 300px;
+    float: right;
+    margin-right: 40px;
+}
