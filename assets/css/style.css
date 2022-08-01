@@ -21,6 +21,10 @@ h1 ,h2 {
     color: #000080;
 }
 
+h2 {
+    border: 3px solid black;
+}
+
 #logo {
     float: left;
     font-size: 190%;
@@ -72,15 +76,17 @@ h1 ,h2 {
 
 /* right img */
 
+#left-text {
+    background-color: aliceblue;
+    border: 3px solid black;
+    width: 1320px;
+    height: 500px;
+}
+
 #right-img {
     border: 3px solid black;
     width: 250px;
     height: 300px;
     float: right;
     margin-right: 40px;
-}
-
-#left-text {
-    border: 3px solid black;
-    width: 1320px;
 }
