@@ -77,7 +77,7 @@ h2 {
 /* about text */
 
 #about-text {
-    
+    height: 600px;
 }
 
 /* right, left */
@@ -85,13 +85,14 @@ h2 {
 #left-text {
     background-color: aliceblue;
     border: 3px solid black;
-    width: 1320px;
+    padding-top: 30px;
+    width: 60%;
     height: 500px;
 }
 
 #right-img {
     border: 3px solid black;
-    width: 250px;
+    width: 30%;
     height: 300px;
     float: right;
     margin-right: 40px;
