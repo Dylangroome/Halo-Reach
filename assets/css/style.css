@@ -18,12 +18,9 @@ body {
 h1 ,h2 {
     font-family: Play, sans-serif;
     letter-spacing: 3px;
-    color: #000080;
+    color: #cc0101;
 }
 
-h2 {
-    border: 3px solid black;
-}
 
 #logo {
     float: left;
@@ -50,7 +47,7 @@ h2 {
 
 #menu a {
     text-decoration: none;
-    color: #000080;
+    color: #8d1f1f;
 }
 
 #menu a:hover {
@@ -65,7 +62,7 @@ h2 {
 
 #hero-img {
     border: 8px solid black;
-    background-color: rgb(162, 183, 201);
+   
     height: 500px;
     width: 100%;
     background-image: url(../image/Main-Img.jpg);
@@ -83,7 +80,6 @@ h2 {
 /* right, left */
 
 #left-text {
-    background-color: aliceblue;
     border: 3px solid black;
     padding-top: 30px;
     width: 60%;
