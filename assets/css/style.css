@@ -33,6 +33,7 @@ h1 ,h2 {
 #menu {
     font-size: 140%;
     letter-spacing: 2px;
+    border: 3px solid black;
 }
 
 #menu, #logo {
@@ -65,6 +66,13 @@ h1 ,h2 {
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
+    padding: 200px 100px;
+    margin-top: 50px;
+    margin-left: 20px;
+    line-height: 60px;
+    background-size: auto;
+    border-radius: 3px soild black;
+
 }
 
 /* about text */
