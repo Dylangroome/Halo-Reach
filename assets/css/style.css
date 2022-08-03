@@ -63,8 +63,16 @@ h1 ,h2 {
     height: 800px;
     width: 100%;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: ;
 
+}
+
+#hero-out {
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+    margin-left: 15px;
+    margin-top: 5px;
 }
 
 /* about text */
