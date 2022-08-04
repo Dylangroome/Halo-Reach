@@ -40,11 +40,15 @@ h1 ,h2 {
     line-height: 60px;
 }
 
+#menu ul {
+    float: right;
+    background-image: url(../image/dark-honeycomb.png);
+}
+
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 70px;
-    background-image: url(../image/dark-honeycomb.png);
 }
 
 #menu a {
