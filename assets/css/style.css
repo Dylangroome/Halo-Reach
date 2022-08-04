@@ -13,6 +13,7 @@ body {
     background-image: url(../image/circle-blues.webp);
 }
 
+
 /* logo style */
 
 h1 ,h2 {
@@ -43,11 +44,16 @@ h1 ,h2 {
     float: right;
     list-style-type: none;
     margin-right: 70px;
+    background-image: url(../image/dark-honeycomb.png);
 }
 
 #menu a {
     text-decoration: none;
     color: #c44b4b;
+}
+
+.active {
+    position: static;
 }
 
 #menu a:hover {
@@ -63,8 +69,6 @@ h1 ,h2 {
     height: 900px;
     width: 100%;
     background-repeat: no-repeat;
-    background-position: ;
-
 }
 
 #hero-out {
@@ -72,7 +76,7 @@ h1 ,h2 {
     width: 65%;
     overflow: hidden;
     margin-left: 15px;
-    margin-top: 5px;
+    margin-top: 15%;
     border: 5px solid black;
 }
 
@@ -108,5 +112,5 @@ h1 ,h2 {
     font-size: 140%;
     color: #c44b4b;
     letter-spacing: 2px;
-    border: 5px solid rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0);;
 }
