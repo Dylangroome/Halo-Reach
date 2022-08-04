@@ -43,7 +43,6 @@ h1 ,h2 {
 #menu ul {
     float: right;
     width: 33%;
-    border: 5px solid black;
     margin-top: 60px;
     margin-right: 5px;
     padding-bottom: 150px;
@@ -56,9 +55,15 @@ h1 ,h2 {
     margin-right: 70px;
 }
 
+#menu p {
+    font-size: 90%;
+    text-decoration: none;
+    color: #b69292;
+}
+
 #menu a {
     text-decoration: none;
-    color: #c44b4b;
+    color: #ffffff;
 }
 
 .active {
@@ -94,9 +99,8 @@ h1 ,h2 {
 #about-text {
     margin-top: 40px;
     margin-bottom: 1100px;
-    width: 100%;
+    width: 98%;
     margin-left: 20px;
-    margin-right: 30px;
 }
 
 #about-halo {
@@ -129,7 +133,7 @@ h1 ,h2 {
 
 .article-head {
     font-size: 140%;
-    color: #c44b4b;
+    color: #e0dada;
     letter-spacing: 2px;
-    border: 5px solid rgb(0, 0, 0);;
+    
 }
