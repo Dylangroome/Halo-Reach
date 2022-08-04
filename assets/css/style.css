@@ -42,6 +42,7 @@ h1 ,h2 {
 
 #menu ul {
     float: right;
+    padding-bottom: 600px;
     background-image: url(../image/dark-honeycomb.png);
 }
 
