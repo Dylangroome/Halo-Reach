@@ -79,10 +79,12 @@ h1 ,h2 {
 /* hero img */
 
 #hero-img {
-    background-image: url(../image/Main-Img.jpg);
-    height: 900px;
-    width: 100%;
+    background-image: url(../image/halo-reach.jpg);
+    height: 1080px;
+    width: 1250px;
     background-repeat: no-repeat;
+    background-position: center center;
+    
 }
 
 #hero-out {
