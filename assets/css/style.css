@@ -174,3 +174,16 @@ h1 ,h2 {
     letter-spacing: 2px;
     
 }
+
+#sec-2 {
+    float: left;
+    font-size: 200%;
+    width: 100%;
+    background-image: url(../image/dark-paths.webp);
+    text-align: center;
+    font-family: Play, sans-serif;
+    letter-spacing: 3px;
+    color: #ffffff;
+    margin-bottom: 5px;
+    border-bottom: 6PX #ffffff solid ;
+}
