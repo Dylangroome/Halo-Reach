@@ -129,6 +129,7 @@ h1 ,h2 {
     margin-left: 15px;
     padding-top: 70px;
     margin-bottom: 70px;
+    border-top: 4px dotted #ffffff;
 }
 
 /* about text */
@@ -161,18 +162,33 @@ h1 ,h2 {
     background-image: url(../image/5-dots.webp);
 }
 
-.left-p {
+#left-p {
     float: left;
-    margin: 50px;
-    padding: 50px;
+    margin-top: 50px;
+    margin-left: 40px;
+    font-size: 200%;
+    text-decoration: none;
+    color: #ffffff;
+}
+#left-p-2 {
+    left: auto;
+    margin-top: 250px;
     font-size: 200%;
     text-decoration: none;
     color: #ffffff;
 }
 
-.right-p {
+#right-p {
     float: right;
-    margin: 30px;
+    margin-top: 150px;
+    font-size: 200%;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#right-p-2 {
+    float: right;
+    margin-top: 100px;
     font-size: 200%;
     text-decoration: none;
     color: #ffffff;
