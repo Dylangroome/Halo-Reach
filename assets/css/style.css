@@ -221,3 +221,35 @@ h1 ,h2 {
     margin-bottom: 30px;
     border-bottom: 6PX #ffffff solid ;
 }
+
+/* Yputube video */
+
+#walk-video {
+    font-size: 190%;
+    width: 100%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 25px;
+    border-bottom: 6px dotted #08701f;
+    
+    
+}
+
+#video {
+    float: right;
+    margin: 15px;
+}
+
+#sec-3 {
+    float: left;
+    font-size: 250%;
+    width: 100%;
+    padding: 10px;
+    margin-left: 15px;
+    background-image: url(../image/dark-paths.webp);
+    text-align: center;
+    font-family: Play, sans-serif;
+    letter-spacing: 3px;
+    color: #ffffff;
+    margin-bottom: 30px;
+    border-bottom: 6PX #ffffff solid ;
