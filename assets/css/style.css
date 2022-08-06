@@ -25,7 +25,7 @@ h1 ,h2 {
 
 #logo {
     float: left;
-    width: 99%;
+    width: 100%;
     font-size: 190%;
     margin-left: 20px;
     border-bottom: 6px dotted #085012;
@@ -47,6 +47,7 @@ h1 ,h2 {
     float: left;
     font-size: 200%;
     width: 100%;
+    margin-left: 15px;
     background-image: url(../image/dark-paths.webp);
     text-align: center;
     font-family: Play, sans-serif;
@@ -73,13 +74,13 @@ h1 ,h2 {
     border-bottom: 6PX #085012 solid ;
 }
 
+
 #menu ul {
     float: right;
-    width: 33%;
-    margin-top: 40px;
-    margin-right: 5px;
+    width: 34%;
+    margin-top: 30px;
     padding-top: 10px;
-    padding-bottom: 130px;
+    padding-bottom: 40px;
     background-image: url(../image/dark-paths.webp);
 }
 
@@ -127,7 +128,7 @@ h1 ,h2 {
     overflow: hidden;
     margin-left: 15px;
     padding-top: 70px;
-    margin-bottom: 90px;
+    margin-bottom: 70px;
 }
 
 /* about text */
@@ -161,12 +162,18 @@ h1 ,h2 {
 
 .left-p {
     float: left;
-    margin: 30px;
+    margin: 50px;
+    font-size: 200%;
+    text-decoration: none;
+    color: #ffffff;
 }
 
 .right-p {
     float: right;
     margin: 30px;
+    font-size: 200%;
+    text-decoration: none;
+    color: #ffffff;
 }
 
 #right-img {
@@ -195,7 +202,7 @@ h1 ,h2 {
     text-align: center;
     font-family: Play, sans-serif;
     letter-spacing: 3px;
-    color: #076e3e;
+    color: #ffffff;
     margin-bottom: 5px;
     border-bottom: 6PX #000000 solid ;
 }
