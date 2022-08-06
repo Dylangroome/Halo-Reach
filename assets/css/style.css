@@ -157,9 +157,10 @@ h1 ,h2 {
     margin-top: 50px;
     margin-left: 15px;
     width: 100%;
-    height: 500px;
+    height: 602px;
     overflow: hidden;
     background-image: url(../image/5-dots.webp);
+    border-bottom: 5px dotted rgb(55, 134, 19);
 }
 
 #left-p {
@@ -199,7 +200,8 @@ h1 ,h2 {
     background-image: url(../image/5-dots.webp);
     background-repeat: no-repeat;
     width: 33%;
-    height: 500px;
+    height: 600px;
+    border: 3px solid rgb(55, 134, 19);
     
     background-position: center;
     background-size: 100% 100%;
@@ -211,7 +213,7 @@ h1 ,h2 {
     background-repeat: no-repeat;
     width: 100%;
     height: 350px;
-    margin-top: 85px;
+    margin-top: 180px;
     background-position: center;
     background-size: 100% 100%;
 }
@@ -265,8 +267,8 @@ h1 ,h2 {
 
 #video {
     float: right;
-    width: 600px;
-    height: 337.50px;
+    width: 900px;
+    height: 525px;
     border: 4px solid rgb(119, 27, 27);
 }
 
@@ -287,5 +289,8 @@ h1 ,h2 {
 
 #main-video {
     width: 100%;
+    height: 600px;
+    margin-left: 15px;
+    margin-top: 130px;
     background-image: url(../image/dark-paths.webp);
 }
