@@ -143,6 +143,7 @@ h1 ,h2 {
     width: 100%;
     margin-left: 20px;
     margin-bottom: 20px;
+    padding-bottom: 25px;
     border-bottom: 6px dotted #08701f;
     
     
@@ -195,14 +196,16 @@ h1 ,h2 {
 
 
 #sec-2 {
-    font-size: 200%;
+    float: left;
+    font-size: 250%;
     width: 100%;
+    padding: 10px;
     margin-left: 15px;
     background-image: url(../image/dark-paths.webp);
     text-align: center;
     font-family: Play, sans-serif;
     letter-spacing: 3px;
     color: #ffffff;
-    margin-bottom: 5px;
-    border-bottom: 6PX #000000 solid ;
+    margin-bottom: 30px;
+    border-bottom: 6PX #ffffff solid ;
 }
