@@ -328,8 +328,12 @@ h1 ,h2 {
 /* footer */
 
 footer {
-    height: 150px;
-    background-image: url(../image/5-dots.webp);
+    height: 280px;
+    border: 4px solid white;
+    margin-top: 40px;
+    margin-left: 15px;
+    width: 100%;
+    background-image: url(../image/dark-paths.webp);
 }
 
 .social-networks {
@@ -344,5 +348,5 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #ffffff;
 }
