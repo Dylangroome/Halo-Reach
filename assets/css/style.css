@@ -324,3 +324,25 @@ h1 ,h2 {
     letter-spacing: 3px;
     color: rgb(90, 158, 179);
 }
+
+/* footer */
+
+footer {
+    height: 150px;
+    background-image: url(../image/5-dots.webp);
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
