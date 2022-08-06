@@ -300,7 +300,7 @@ h1 ,h2 {
 .video-p {
     float: left;
     font-size: 200%;
-    width: 40%;
+    width: 45%;
     height: 590px;
     
     background-image: url(../image/5-dots.webp);
@@ -310,13 +310,17 @@ h1 ,h2 {
     color: #ff0000;
 }
 
+#walk-h {
+    text-align: center;
+    font-family: Play, sans-serif;
+    letter-spacing: 3px;
+    color: #ff0000;
+    border-bottom: 2px dotted rgb(255, 255, 255);
+}
+
 .video-2 {
     float: left;
-    font-size: 100%;
-    width: auto;
-    height: auto;
-    
-    text-align: center;
+    margin: 20px;
     font-family: Play, sans-serif;
     letter-spacing: 3px;
     color: #ffffff;
