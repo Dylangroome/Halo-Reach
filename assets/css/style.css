@@ -160,7 +160,7 @@ h1 ,h2 {
     height: 602px;
     overflow: hidden;
     background-image: url(../image/5-dots.webp);
-    border-bottom: 5px dotted rgb(55, 134, 19);
+    border-bottom: 5px dotted rgb(34, 65, 20);
 }
 
 #left-p {
@@ -201,7 +201,7 @@ h1 ,h2 {
     background-repeat: no-repeat;
     width: 33%;
     height: 600px;
-    border: 3px solid rgb(55, 134, 19);
+    border: 3px solid rgb(34, 65, 20);
     
     background-position: center;
     background-size: 100% 100%;
@@ -209,11 +209,11 @@ h1 ,h2 {
 
 #load-img {
     float: right;
-    background-image: url(../image/Loading\ Screen.jpg);
+    background-image: url(../image/halo-reach-master.jpg);
     background-repeat: no-repeat;
     width: 100%;
-    height: 350px;
-    margin-top: 180px;
+    height: 400px;
+    
     background-position: center;
     background-size: 100% 100%;
 }
@@ -221,7 +221,7 @@ h1 ,h2 {
 .load-p {
     float: left;
     text-align: center;
-    color: #31860f;
+    color: #285716;
     font-size: 300%;
 }
 
@@ -301,13 +301,9 @@ h1 ,h2 {
     float: left;
     font-size: 200%;
     width: 45%;
-    height: 590px;
+    height: 600px;
     
     background-image: url(../image/5-dots.webp);
-    text-align: center;
-    font-family: Play, sans-serif;
-    letter-spacing: 3px;
-    color: #ff0000;
 }
 
 #walk-h {
