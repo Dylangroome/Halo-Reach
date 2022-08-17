@@ -66,9 +66,7 @@ h1 ,h2 {
 }
 
 #text-main {
-    float: left;
-    width: 50%;
-    margin-left: 15px;
+    color: #ffffff;
 }
 
 #piller {
@@ -84,18 +82,19 @@ h1 ,h2 {
 
 
 #menu ul {
-    float: right;
-    width: 34%;
-    margin-top: 30px;
     padding-top: 10px;
-    padding-bottom: 40px;
     background-image: url(../image/dark-paths.webp);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    width: 100%
+
 }
 
 #menu li {
-    float: right;
     list-style-type: none;
-    margin-right: 70px;
 }
 
 #menu p {
@@ -134,8 +133,6 @@ h1 ,h2 {
     height: 900px;
     width: 100%;
     overflow: hidden;
-    margin-left: 15px;
-    padding-top: 70px;
     margin-bottom: 70px;
     border-top: 4px dotted #ffffff;
 }
