@@ -13,6 +13,18 @@ body {
     background-image: url(../image/circle-blues.webp);
 }
 
+header {
+    width: 100%;
+    padding-top: 15px;
+    height: auto;
+}
+header a {
+    text-decoration: none;
+}
+
+.content {
+    margin: 0 15px;
+}
 
 /* logo style */
 
