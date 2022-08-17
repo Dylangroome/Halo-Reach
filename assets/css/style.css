@@ -147,7 +147,6 @@ h1 ,h2 {
 #about-halo {
     font-size: 190%;
     width: 100%;
-    margin-left: 20px;
     margin-bottom: 20px;
     padding-bottom: 25px;
     border-bottom: 6px dotted #08701f;
@@ -159,19 +158,14 @@ h1 ,h2 {
 
 #left-text {
     border: 3px solid black;
-    margin-top: 50px;
-    margin-left: 15px;
     width: 100%;
-    height: 602px;
     overflow: hidden;
     background-image: url(../image/dark-paths.webp);
     border-bottom: 5px black rgb(0, 0, 0);
 }
 
 #left-p {
-    float: left;
     margin-top: 50px;
-    margin-left: 40px;
     font-size: 200%;
     text-decoration: none;
     color: #ffffff;
@@ -179,14 +173,12 @@ h1 ,h2 {
 #left-p-2 {
     left: auto;
     margin-top: 250px;
-    margin-left: 40px;
     font-size: 200%;
     text-decoration: none;
     color: #ffffff;
 }
 
 #right-p {
-    float: right;
     margin-top: 150px;
     margin-right: 40px;
     font-size: 200%;
@@ -195,7 +187,6 @@ h1 ,h2 {
 }
 
 #right-p-2 {
-    float: right;
     margin-top: 100px;
     margin-right: 40px;
     font-size: 200%;
@@ -204,13 +195,12 @@ h1 ,h2 {
 }
 
 #right-img {
-    float: right;
     background-image: url(../image/5-dots.webp);
     background-repeat: no-repeat;
-    width: 33%;
+    width: 100%;
     height: 600px;
     border: 3px solid rgb(34, 65, 20);
-    
+    overflow: hidden;  
     background-position: center;
     background-size: 100% 100%;
 }
