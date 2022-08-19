@@ -115,6 +115,15 @@ h1 ,h2 {
     border-bottom: 3px solid #000000;
 }
 
+#back-img-2 {
+    background-image: url(../image/dark-paths.webp);
+    background-repeat: no-repeat;
+    width: 100%;
+    overflow: hidden;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
 
 
 /* hero img */
