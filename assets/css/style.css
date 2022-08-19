@@ -250,6 +250,11 @@ h1 ,h2 {
     border-bottom: 6PX #ffffff solid ;
 }
 
+#under-sec-2 {
+    width: 100%;
+    height: 50vh;
+}
+
 /* Youtube video */
 
 #youtube {
@@ -284,7 +289,7 @@ h1 ,h2 {
 
 #main-video {
     width: 100%;
-    margin-top: 130px;
+    height: 50vh;
     background-image: url(../image/dark-paths.webp);
 }
 
