@@ -73,6 +73,9 @@ h1 ,h2 {
     font-family: Play, sans-serif;
     letter-spacing: 3px;
     color: #ffffff;
+    border-bottom: 3px solid white;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .piller-p {
