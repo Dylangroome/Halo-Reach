@@ -124,10 +124,18 @@ h1 ,h2 {
     width: 100%;
     overflow: hidden;
     background-position: center;
-    border: #000000 6px dotted;
+    border: #000000 6px solid;
     background-size: 100% 100%;
 }
 
+.piller-p-2 {
+    font-family: Play, sans-serif;
+    letter-spacing: 3px;
+    color: #4cff29;
+    border-bottom: 3px solid rgb(0, 0, 0);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
 
 
 /* hero img */
@@ -228,7 +236,7 @@ h1 ,h2 {
 
 .load-p {
     text-align: center;
-    color: #285716;
+    color: #3faf13;
     font-size: 300%;
 }
 
@@ -337,6 +345,7 @@ footer {
     font-size: 2rem;
 }
 
+/* email */
 
 form{
     display: flex;
@@ -348,7 +357,7 @@ form{
 
 
 input[type=submit] {
-	box-shadow: 3px 4px 0px 0px #4f3d3d;
+	box-shadow: 3px 4px 0px 0px #000000;
 	background:linear-gradient(to bottom, #000000 5%, #000000 100%);
 	background-color:#000000;
 	border-radius:5px;
@@ -382,7 +391,7 @@ input[type=email]{
     padding: 0 10px;
 	margin: 0 auto;
     border: 1px solid rgb(255, 255, 255);
-    background-color:rgba(163, 84, 84, 0.3);
+    background-color:rgba(0, 0, 0, 0.3);
     display: inline-block;
     margin: 5px 10px 5px 2px;
     width: 300px;
