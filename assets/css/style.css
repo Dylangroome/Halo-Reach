@@ -70,12 +70,11 @@ h1 ,h2 {
 }
 
 #piller {
-    font-family: Play, sans-serif;
-    letter-spacing: 3px;
-    color: #ffffff;
-    border-bottom: 3px solid white;
-    padding-bottom: 10px;
+    font-size: 190%;
+    width: 100%;
     margin-bottom: 20px;
+    padding-bottom: 25px;
+    border-bottom: 6px dotted #08701f;
 }
 
 .piller-p {
@@ -137,6 +136,9 @@ h1 ,h2 {
     margin-bottom: 20px;
 }
 
+#mar-bot {
+    padding-bottom: 150px;
+}
 
 /* hero img */
 
