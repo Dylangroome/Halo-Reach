@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 134e21795b62e4b5b4cbaaab990f4255d9381483
 # HALO REACH
 <img width="1050" alt="image" src="https://user-images.githubusercontent.com/108524172/186548745-d13aca49-258d-44d0-9b4a-13e32297d403.png">
 
