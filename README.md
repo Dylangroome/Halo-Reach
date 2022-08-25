@@ -1,9 +1,4 @@
 
-# Table of Contents
-Copy your readme to http://ecotrust-canada.github.io/markdown-toc/ to make a table of contents.  This will help assessors to see the structure of your readme. Just test it out ast this tool isn't perfect. It tends to mess up with special characters like dashes.
-
-====================================== The Sections you Fill in are below ==============================
-
 # HALO REACH
 - Screenshot of logo/navigation of mobile deployed site
 - Include a link to deployed project with one line explanation of project
@@ -83,7 +78,6 @@ In this section, you need to convince the assessor that you have conducted enoug
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ### Validation Testing
-You should try to ensure you code is valid and follows proper indentation.  In this section you should write up any websites you used to validate your code. As your projects becomes more complex these tools may change.
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/) Note, any error associated with root: color variables were ignored.
 - [HTML Validator](https://validator.w3.org/)
