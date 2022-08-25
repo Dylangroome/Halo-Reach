@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 134e21795b62e4b5b4cbaaab990f4255d9381483
 # HALO REACH
-- Screenshot of logo/navigation of mobile deployed site
-- Include a link to deployed project with one line explanation of project
+<img width="1050" alt="image" src="https://user-images.githubusercontent.com/108524172/186548745-d13aca49-258d-44d0-9b4a-13e32297d403.png">
+
 
 Deploy url - https://dylangroome.github.io/Halo-Reach/
 Author 
