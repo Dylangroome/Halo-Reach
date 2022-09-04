@@ -1,5 +1,8 @@
 
 # HALO REACH
+
+The site targeted those who love games and more specifically Halo Reach. A 2010 release and last for game studio bungie in the halo franchise.
+This page will help guid you through the penultimate levle in Halo Reach.
 <img width="1050" alt="image" src="https://user-images.githubusercontent.com/108524172/186548745-d13aca49-258d-44d0-9b4a-13e32297d403.png">
 
 
