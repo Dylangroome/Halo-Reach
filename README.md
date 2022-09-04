@@ -7,15 +7,10 @@ This page will help guid you through the penultimate levle in Halo Reach.
 
 
 Deploy url - https://dylangroome.github.io/Halo-Reach/
-Author 
-DYLAN
+## Author
+
 Dylan Groome
 
-## Project Overview
-- Include a picture of site that shows it in responsive states and links to deployed code: https://ui.dev/amiresponsive
-- One or two paragraphs providing an overview of your project.
-- Write this as a sales pitch or commercial to entice users to interact with your site or how you want investors to purchase your website.
-- Include a link to your deployed website
 
 ## Table of Contents
 Generate after readme is complete for UX and below
