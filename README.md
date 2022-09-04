@@ -52,27 +52,67 @@ The main images on the home page were chosen to display the feeling of the game 
 
 ### Wireframes
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in a separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser. 
+![image](https://user-images.githubusercontent.com/108524172/188331196-3d65dfb2-bd8f-4ecf-b925-8441d49bcb04.png). 
 
 Wireframes can be as simple as a picture of a drawing of how you envisioned laying out the information for you pages in desktop, tablet and mobile views. They are a roadmap and do not have to be 100% accurate of the final product.
 
-### Features
+## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so and how they tie into  your user stories.
+### Implemented Features
 
-#### Implemented Features
+#### Navigation Bar
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+![image](https://user-images.githubusercontent.com/108524172/188328051-e7c62886-b6b0-418e-b8fd-84ccf4757773.png)
 
-It's easiest to break this section down into the header, footer, and each page/layer of your website. Call out any differences for mobile vs desktop presentations, include a screenshot of the implemented feature.
+* The navigation bar includes the Logo,
+* Walkthrough
+* About Halo Reach
+* Walkthrough Video
 
-Don't forget your 404 error page.
 
-#### Future Features
+* It’s located at the top of the page.
 
-Use this section to discuss plans for additional features to be implemented in the future:
+* It adjusts itself from different devices (ex: mobile).
 
-If you end up not developing some features you hoped to implement, you can include those in this section.
+![image](https://user-images.githubusercontent.com/108524172/188331485-bb200ad3-059d-4c89-a1cc-df8743e6c19c.png)
+
+
+#### Main Image and Text
+
+* The main image is for user to see that the website is for players from halo reach.
+
+![image](https://user-images.githubusercontent.com/108524172/188330710-9c8473ba-70d1-43ee-a53e-796f105ecccc.png)
+
+#### Piller of autumn Section
+
+![image](https://user-images.githubusercontent.com/108524172/188331540-7b183762-f722-4b03-bb22-b51fdc389308.png)
+
+
+* The Piller of autumn section allows the user to understand the penultimate mission.
+
+* The Piller of autumn presents a header and a summary about the content.
+
+#### About Halo Reach Section
+
+![image](https://user-images.githubusercontent.com/108524172/188331677-22871935-2dc2-4713-a1c5-e5d5519a1a3e.png)
+
+* This section gives context and meaning to the game halo reach for users.
+
+
+#### Walkthrough Video
+
+![image](https://user-images.githubusercontent.com/108524172/188331627-00a32edb-63a9-40ca-8343-d1fdfe108f2c.png)
+
+* This section gives access to a youtube video on the game game halo reach for users.
+
+#### Footer
+
+![image](https://user-images.githubusercontent.com/108524172/188331851-e7fba9b8-0eed-45c0-b5bb-749a31cce551.png)
+
+* The footer includes links to all relevant social media sites for the Games website. All the links will open in a new tab.
+
+* The footer includes a form to sign up.
+
 
 
 ## Testing
