@@ -113,18 +113,12 @@ Wireframes can be as simple as a picture of a drawing of how you envisioned layi
 
 * The footer includes a form to sign up.
 
-
-
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+![image](https://user-images.githubusercontent.com/108524172/188335968-315d3440-23b7-4e34-adb6-814b21fdca64.png)
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-### Validation Testing
-
-- [CSS Validator](https://jigsaw.w3.org/css-validator/) Note, any error associated with root: color variables were ignored.
-- [HTML Validator](https://validator.w3.org/)
+![image](https://user-images.githubusercontent.com/108524172/188336022-04abf21a-80d7-4218-a08f-1e61d202863c.png)
 
 ### Cross Browser and Cross Device Testing
 Create a table that lists out what devices, browsers, and operating system you tested your application on and a brief description of why you chose the mixture you did. The point is to prove that you looked at the site across various browsers, operating systems, and viewport breakpoints.
@@ -145,103 +139,12 @@ Create a table that lists out what devices, browsers, and operating system you t
 
 ### Manual Testing
 
-For any scenarios that have not been automated, test the user stories/features manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios in markdown such as:
+| Feature Tested                          | Steps Taken                                                                                                                                                                                                                         |
+|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Navigation-table/mobile                 | 1. Start on a given page (Home, Reviews Awards, Upcoming)<br>2. Click each navigation link and make sure you go where you expect                                                                                                    |
+| Navigation - Desktop                    | 1. Start on a given page (Home, Reviews Awards, Upcoming)<br>2. Click each navigation link and make sure you go where you expect                                                                                                    ||
+| Social media Links:<br>opens in new tab | 1. For each page (Home, Reviews, Awards, Upcoming, scroll to footer)<br>2. For each social medial link (Facebook, Twitter, Instagram, Youtube)<br>3. verify clicking icon opens new tab                                             |
 
-**Manual Testing For Contact Form**
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-Or you can use mardown check boxes and write them up per feature:
-
-**Manual Testing For Contact Form**
-- [x] try to submit 
-- [x] Try to submit the empty form and verify that an error message about the required fields appears
-- [x] Try to submit the form with an invalid email address and verify that a relevant error message appears
-- [x] Try to submit the form with all inputs valid and verify that a success message appears.
-- [x] no console errors
-- [x] submit goes to code institute data dump page in new tab
-- [x] looks good on mobile (one column)
-- [x] looks good on tablet (two columns)
-- [x] looks good on desktop (two columns but not SUPER HUGE)
-
-Or you can use a spreadsheet
-    
-Here is a [Manual Testing Template](https://docs.google.com/spreadsheets/d/1vc1IVL-ydQwWeWMqnk_GRox6HE6qxDLpchGse8Crayo/edit#gid=296578096) that you can use as a starting point to keep track of your testing efforts. Make a copy of it in your own account and update as needed to reflect the browsers you are testing and features.  
-
-It's ok to spot check specific functionality across devices and browsers but each page should be viewed as a whole for each device/browser combo at least once.
-
-A quick way to check if items are exceeding the screen width of a project is to run this javascript in the console for various screen emulations:
-
-```
-var docWidth = document.documentElement.offsetWidth;
-[].forEach.call(document.querySelectorAll('*'),function(el){if(el.offsetWidth > docWidth){console.log(el);}});
-```
-
-### Defect Tracking
-
-Try to create issues in real time as it better reflects the daily life of a developer.
-
-The easiest way to track defects is by using GITHUB's Issues to track these as it's really easy to copy/paste screenshots in and then write up how you closed them. At this stage you don't need a custom template or labels, that comes in P4.
-
-**Creating Defects**
-1. Click the Issues menu item 
-![image](https://user-images.githubusercontent.com/23039742/169566835-240ce89c-6ab1-45b6-8ee8-5f693de70e5d.png)
-
-2. click the Green New Issue button
-![image](https://user-images.githubusercontent.com/23039742/169567026-07ff2fb7-ebc0-4ce0-b8a8-38ab7da8844b.png)
-
-3. Fill in the default form
-![image](https://user-images.githubusercontent.com/23039742/169567286-c85218d1-1118-4472-93be-04eda040ecc5.png)
- - Fill in a descriptive title
- - add steps to reproduce if it's not straight forward
- - include a screenshot
-<img width="967" alt="image" src="https://user-images.githubusercontent.com/23039742/169567840-255b514c-0a1e-4514-8593-9c2aab295b6e.png">
-4. click the submit New issue button
-
-**Closing Defects**
-1. Go to the issue list in GitHub and click on the issue you have fixed 
-<img width="1476" alt="image" src="https://user-images.githubusercontent.com/23039742/169568053-6e34b94c-ff31-4d7f-9faf-1d04286f0397.png">
-
-2. Add a brief write up of what you fixed and include a screenshot if necessary then Click the Close with Comment Button
-![image](https://user-images.githubusercontent.com/23039742/169570025-6d559641-d573-4749-bc0f-33a151358481.png)
-
-**Reopening Defects**
-1. If you find you didn't fix the issue, you can toggle to the closed items:
-![image](https://user-images.githubusercontent.com/23039742/169570117-274898ec-ee02-487a-ac14-4755095d5e8a.png)
-
-2. Click on the issue you want to re-open
-3. Scroll down and click the re-open button
-![image](https://user-images.githubusercontent.com/23039742/169570383-9fc53595-1761-4117-a369-d798877c7fe2.png)
-
-
-### Defects of Note
-Some defects are more pesky than others. Highlight 3-5 of the bugs that drove you the most nuts and link to them directly here.
-
-
-### Outstanding Defects
-It's ok to not resolve all the defects you found as long as:
-- it does not impacting a user from completing a vital function on the website
-- it only affects a very small subset of users
-- is an extreme edge case that very few users would try
-
-If you know of something that isn't quite right, create an issue and  link to it here and explain why you chose not to resolve it. 
-
-Sometimes it's as simple, word wrapping issue that makes the site look odd at a certain screensize that you just didn't have time to fix due to the impending deadline and lack of skills. It's best to mention it but note why you allowed it to go live than let asccessors think you didn't notice it. 
-
-## Accessibility
-
-Accessibility testing is aimed to make sure that those with visual or physical disabilities can still browse your website. Some users have had strokes or accidents that make it difficult to use a mouse so they use keyboard keys to tab through sites. Others use screen readers that rely on HTML tags to help the user navigate quickly through the site to find information they want, others have color blindness or contrast issues. It's the law to provide services 
-Here's a [site](https://www.w3.org/WAI/fundamentals/accessibility-intro/#:~:text=Accessibility%20is%20Important%20for%20Individuals%2C%20Businesses%2C%20Society,-The%20Web%20is&text=That%20is%2C%20the%20accessibility%20barriers,older%20people) where you can learn more about accessibility and the internet.
-
-### Lighthouse Audits
-You should run your deployed website pages through lighthouse's audit to check performance, accessibility, best practices and SEO scores. You should aim to get 85 or higher score. 
-https://web.dev/measure/  If you have lower scores, read the report and follow the links to address the flagged issues. You can run this tool from Chrome Dev Tools too against your local machine, but the performance will the worst (I personally ignore my performance results unless it's deployed code. I hope for > 60 on that mark, but > 85 on the other 3)
-
-### Keyboard Navigation
-Another way to accessibility test you site is to try to click on the browser and see what happens if you use the tab, arrow and enter keys. Does it work well or does the user get stuck?
 
 
 ## Deployment
