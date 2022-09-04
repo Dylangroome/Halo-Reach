@@ -20,29 +20,35 @@ Generate after readme is complete for UX and below
 ### Project Goals
 Use this section to provide insight into your UX process, focusing on who this website is for, calling out demographics, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-### Design Choices
-Your site is most likely geared to a certain audience, and your design choices should tie into them. Let the assessors know your thought process.
+## Design Choices
 
-You may want to re-watch the videos about the [5 planes of UX development ](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/) when writing up this section
+### Typography
 
-#### Colors
+* Teko - Teko font was used.
 
-- Discuss your color pallet choices and how it ties into users' emotions or target audience.
-- include a screenshot of your pallet using a tool like coolors.co
+![image](https://user-images.githubusercontent.com/108524172/188328051-e7c62886-b6b0-418e-b8fd-84ccf4757773.png)
 
-#### Typography
 
-- discuss font size, font types for headers vs buttons vs general text and how it ties into users' emotions or target audience.
-- include screenshots of fonts used and links to the appropriate website ex) https://fonts.google.com/specimen/Raleway
+### Colors
 
-#### Images
+[Color pallet](assets/images/readme/colors.png)
 
-Explain why you used certain icons and images on your site
+* The color #000000 used. Chosen for being neutral color.
 
-#### Animations and Transitions
+* The color #FFFFFF is used for text.
 
-- discuss any special animations or transitions you've included 
-- special hover state effects
+* The color #FFFFFF is most used as border.
+
+* The color #08701f is used for headings. The color was chosen to have a good contrast with the background.
+
+### Images
+
+The game images were chosen to represent what games the topic is about.
+
+The main images on the home page were chosen to display the feeling of the game halo reach.
+
+ ![image](https://user-images.githubusercontent.com/108524172/188330710-9c8473ba-70d1-43ee-a53e-796f105ecccc.png)
+
 
 ### Wireframes
 
