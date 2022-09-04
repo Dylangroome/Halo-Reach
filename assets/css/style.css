@@ -17,7 +17,13 @@ header {
     width: 100%;
     padding-top: 15px;
     height: auto;
-}
+    position: fixed;
+    overflow: hidden;
+    top: 0;
+    border-bottom: 4px dotted #ffffff;
+    background-image: url(../image/dark-paths.webp);
+ }
+ 
 header a {
     text-decoration: none;
 }
@@ -165,8 +171,9 @@ h1 ,h2 {
     width: 100%;
     overflow: hidden;
     margin-bottom: 70px;
-    border-top: 4px dotted #ffffff;
-}
+    /* border-top: 4px dotted #ffffff; */
+    margin-top: 80px;
+} 
 
 /* about text */
 
