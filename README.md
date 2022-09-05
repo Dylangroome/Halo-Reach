@@ -149,31 +149,45 @@ Create a table that lists out what devices, browsers, and operating system you t
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages).
+### Deploy to GitHub Pages
 
-Enumerate steps and use screenshots to make the instructions are clear.
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+	
+* In the GitHub repository, navigate to the Settings tab
 
+* From the source section drop-down menu, select the Master Branch
 
-You may want to re-watch the [initial deployment in gitpod video](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/9b06129195c64fada6783de9cfe82d60/) when writing up this section.
-
-
-Write out steps you would take and test them to deploy your code to GitHub Pages, include screenshots if you think they would make the process easier.
+* Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 ## Credits
 
-To avoid plagiarism amd copyright infringement, you should mention any other projects, stackoverflow, videos, blogs, etc that you used to gather imagery or ideas for your code even if you used it as a starting point and modified things. Giving credit to other people's efforts and ideas that saved you time acknowledges the hard work others did. 
 
 ### Content
 
-Use bullet points to list out sites you copied text from and cross-reference where those show up on your site
+Text
+ * https://halo.fandom.com/wiki/Halo:_Reach
+
+ * https://www.youtube.com/watch?v=OZuxyy2rUSc
+ 
+ Video
+
+ * https://www.halopedia.org/The_Pillar_of_Autumn_(Halo:_Reach_level)
 
 ### Media
 
-Make a list of sites you used images from. If you used several sites try to match up each image to the correct site. This includes attribution for icons if they came from font awesome or other sites, give them credit.
+Image
+
+ * https://sightingames.wordpress.com/2021/04/07/halo-reach-review/
+ * https://www.toptal.com/designers/subtlepatterns/
+
+Icons
+
+    * Facebook, Instagram, Twitter, Youtube: https://fontawesome.com/
+
 
 ### Acknowledgments
 
-This is the section where you refer to code examples, mentors, blogs, stack overflow answers and videos that helped you accomplish your end project. Even if it's an idea that you updated you should note the site and why it was important to your completed project.
-
-If you used a CodeInstitute Example project as a starting point. Make note of that here.
-
+* Code Institute: Love and Running Project
+* https://github.com/arthurmezaonik/portfolio_project_01
+* https://www.youtube.com/watch?v=MNNr7TU7XcU
+* https://www.youtube.com/watch?v=33IinMVJf-M
