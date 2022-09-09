@@ -13,12 +13,28 @@ Dylan Groome
 
 
 ## Table of Contents
-Generate after readme is complete for UX and below
 
-## UX
-
-### Project Goals
-Use this section to provide insight into your UX process, focusing on who this website is for, calling out demographics, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+- [GAMES](#games)
+  * [Author](#author)
+  * [Design Choices](#design-choices)
+    + [Typography](#typography)
+    + [Colors](#colors)
+    + [Images](#images)
+    + [Wireframes](#wireframes)
+  * [Features](#features)
+    + [Implemented Features](#implemented-features)
+      - [Navigation Bar](#navigation-bar)
+      - [Main Image and Text](#main-image-and-text)
+      - [Footer](#footer)
+  * [Testing](#testing)
+    + [Cross Browser and Cross Device Testing](#cross-browser-and-cross-device-testing)
+    + [Manual Testing](#manual-testing)
+  * [Deployment](#deployment)
+    + [Deploy to GitHub Pages](#deploy-to-github-pages)
+  * [Credits](#credits)
+    + [Content](#content)
+    + [Media](#media)
+    + [Acknowledgments](#acknowledgments)
 
 ## Design Choices
 
