@@ -162,18 +162,19 @@ h1 ,h2 {
 /* hero img */
 
 #hero-img {
-    background-image: url(../image/halo-reach.jpg);
-    height: 100%;
     width: 100%;
-    background-repeat: no-repeat;
-    background-position: center center;
-    
+    overflow: hidden;    
+}
+
+
+#hero-img > img{
+    width: 100%;
+    overflow: hidden;  
 }
 
 #hero-out {
-    height: 900px;
+    
     width: 100%;
-    overflow: hidden;
     margin-bottom: 70px;
     /* border-top: 4px dotted #ffffff; */
     margin-top: 80px;
@@ -458,6 +459,11 @@ input[type=email]{
         display: flex;
         justify-content: space-between;
     }
+
+    #hero-out{
+        display: flex;
+    }
+
     #menu ul{
         font-size: 200%;
     }
