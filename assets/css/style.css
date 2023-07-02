@@ -21,7 +21,7 @@ header {
     width: 100%;
     padding-top: 15px;
     height: auto;
-    position: fixed;
+    position: relative;
     overflow: hidden;
     top: 0;
     border-bottom: 4px dotted #ffffff;
@@ -95,7 +95,7 @@ h1 ,h2 {
 
 #menu ul {
     padding-top: 10px;
-    background-image: url(../image/dark-paths.webp);
+    
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
@@ -238,6 +238,8 @@ h1 ,h2 {
 }
 
 #right-img {
+    align-items: center;
+    justify-content: space-between;
     background-image: url(../image/5-dots.webp);
     background-repeat: no-repeat;
     width: 100%;
@@ -248,19 +250,18 @@ h1 ,h2 {
 }
 
 #load-img {
-    background-image: url(../image/halo-reach-master.jpg);
-    background-repeat: no-repeat;
     width: 100%;
-    height: 420px;
-    margin-top: 60px;
-    background-position: center;
-    background-size: 100% 100%;
+}
+
+#load-img > img{
+    width: 100%;
 }
 
 .load-p {
     text-align: center;
     color: #3faf13;
     font-size: 300%;
+    
 }
 
 .article-head {
